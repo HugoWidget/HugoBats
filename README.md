@@ -1,4 +1,9 @@
 # HugoBats
+
+> [!NOTE]
+>
+> 建议阅读 [HugoWidget 简介](https://github.com/HugoWidget/HugoWidget) 以了解开发情况
+
 在特别环境下，可能出现 HugoWidget 项目程序无法正常工作的情况，如果急于使用一些功能，这个仓库可能有一点作用。
 
 1. 循环关闭希沃：[disable.bat](src/disable.bat)
@@ -36,4 +41,7 @@
      127.0.0.1:6082/api/v1/set?vol=20
      ```
    
-     
+
+## 许可证
+
+本项目采用 MIT 许可证，详情参见 [LICENSE](LICENSE) 文件。
